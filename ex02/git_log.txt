@@ -1,0 +1,5 @@
+commit eb7f6304a600b9bcff4935fa79e151c5791507d3 (HEAD -> main)
+Author: aamr <aamr@student.42amman.com>
+Date:   Mon Oct 5 16:04:42 2026 +0300
+
+    adding hello.txt

@@ -1,0 +1,21 @@
+1. Edit
+   Modified ex03/README.md.
+
+   $ git status
+   (your real output)
+
+2. Add: moves the change into the staging area
+   $ git add ex03/README.md
+   $ git status
+   (your real output)
+
+3. Commit: saves a snapshot of the staged changes in local history
+   $ git commit -m "Add README with Git overview"
+   (your real output)
+
+4. Push: sends local commits to the remote over SSH
+   $ git push
+   (your real output)
+
+   $ git log --oneline --decorate
+   (your real output)

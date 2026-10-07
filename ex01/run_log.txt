@@ -1,0 +1,2 @@
+First line using echo (>).
+Second line using echo (>>).

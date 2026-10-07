@@ -1,0 +1,41 @@
+.:
+total 0
+drwxr-xr-x 5 aamr students  77 Oct  5 10:37 .
+drwxr-xr-x 7 aamr students 111 Sep 30 16:30 ..
+drwxr-xr-x 2 aamr students   6 Oct  5 10:34 archives
+drwxr-xr-x 3 aamr students  17 Oct  5 10:35 projects
+drwxr-xr-x 2 aamr students   6 Oct  5 10:34 tools
+-rw-r--r-- 1 aamr students   0 Oct  5 10:37 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 aamr students  6 Oct  5 10:34 .
+drwxr-xr-x 5 aamr students 77 Oct  5 10:37 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 aamr students 17 Oct  5 10:35 .
+drwxr-xr-x 5 aamr students 77 Oct  5 10:37 ..
+drwxr-xr-x 4 aamr students 37 Oct  5 10:35 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 aamr students 37 Oct  5 10:35 .
+drwxr-xr-x 3 aamr students 17 Oct  5 10:35 ..
+drwxr-xr-x 2 aamr students  6 Oct  5 10:35 backend
+drwxr-xr-x 2 aamr students  6 Oct  5 10:35 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 aamr students  6 Oct  5 10:35 .
+drwxr-xr-x 4 aamr students 37 Oct  5 10:35 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 aamr students  6 Oct  5 10:35 .
+drwxr-xr-x 4 aamr students 37 Oct  5 10:35 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 aamr students  6 Oct  5 10:34 .
+drwxr-xr-x 5 aamr students 77 Oct  5 10:37 ..
